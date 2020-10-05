@@ -1,13 +1,7 @@
-## Welcome to GitHub Pages
+## 最大的特征是一种底色
 
-You can use the [editor on GitHub](https://github.com/Shuyao-He/personalities/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+开朗热情、热爱挑战、友好幽默，这些词都可以用来形容我，但是我拥有的不过是这些特征的非典型性版本，因为它们在展现出来时常常伴随着一种笨拙。我从来不是一直或绝大多数时候展现出某种特定性格，而是始终在沉默和开朗、幽默和木讷、勇敢和胆怯之间因事而异地波动，不存在什么稳定的特征。
+唯一的稳定特征似乎是那种名为“抽离感”的底色。
 ```markdown
 Syntax highlighted code block
 
