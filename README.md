@@ -2,7 +2,6 @@
   <head>
     <meta charset="UTF-8">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>最大的特征是一种底色 | personalities</title>
 <body>
 
